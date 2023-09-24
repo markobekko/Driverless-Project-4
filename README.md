@@ -47,5 +47,3 @@ Quindi effettuando la moltiplicazione tra le 3 matrici otteniamo:
 $$x_v = (0 * x) + (-1 * y) + (0 * z) + x_{pos}$$
 $$y_v = (1 * x) + (0 * y) + (0 * z) + y_{pos}$$
 $$y_v = (0 * x) + (0 * y) + (1 * z) + z_{pos}$$
-
-$$x_v = 1,418m, y_v = 1,941m, z_v = 3,84m$$
